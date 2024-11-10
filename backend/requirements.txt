@@ -1,0 +1,13 @@
+# FastAPI and related dependencies
+fastapi
+uvicorn
+
+# Database
+mysql-connector-python
+
+# PDF processing
+PyMuPDF # Efficient PDF text extraction
+
+# Environment variables
+python-dotenv
+google-generativeai
