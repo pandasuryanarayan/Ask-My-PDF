@@ -11,3 +11,4 @@ PyMuPDF # Efficient PDF text extraction
 # Environment variables
 python-dotenv
 google-generativeai
+python-multipart
